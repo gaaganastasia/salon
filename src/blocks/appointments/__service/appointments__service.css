@@ -1,0 +1,11 @@
+.appointments__service {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  
+  color: #fff;
+  margin: 0 0 5px;
+  text-transform: uppercase;
+}

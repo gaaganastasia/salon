@@ -1,0 +1,5 @@
+.footer__caption {
+  margin: 20px 0 0;
+  display: flex;
+  justify-content: space-between;
+}

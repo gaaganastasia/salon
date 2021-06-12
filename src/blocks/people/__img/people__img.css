@@ -1,0 +1,5 @@
+.people__img {
+  width: 190px;
+  height: 270px;
+  object-fit: cover;
+}

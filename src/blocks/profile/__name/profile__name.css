@@ -1,0 +1,17 @@
+.profile__name {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 58px;
+  /* identical to box height, or 116% */
+  
+  letter-spacing: -0.04em;
+  color: #fff;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  text-transform: uppercase;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  margin: 0;
+}

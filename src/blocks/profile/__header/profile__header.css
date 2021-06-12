@@ -1,0 +1,14 @@
+.profile__header {
+  width: 80%;
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 27px;
+  letter-spacing: -0.04em;
+  border-bottom: 1px solid #fff;
+  margin: 0 10%;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 40px 0 23px;
+}

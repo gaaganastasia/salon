@@ -1,0 +1,13 @@
+.online__input {
+  border-radius: 3px;
+  border: none;
+  outline: none;
+  height: 45px;
+  padding: 0 10px;
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+}

@@ -1,0 +1,11 @@
+.online__title {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+  text-transform: uppercase;
+  /* gray */
+  
+  color: #969696;
+}

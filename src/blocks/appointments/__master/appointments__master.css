@@ -1,0 +1,12 @@
+.appointments__master {
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 13px;
+  display: flex;
+  align-items: center;
+  
+  color: #A0A0A0;
+  margin: 0 0 14px;
+}

@@ -1,0 +1,4 @@
+.about-us__block {
+  display: flex;
+  justify-content: space-between;
+}

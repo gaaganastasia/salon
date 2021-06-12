@@ -1,0 +1,14 @@
+.profile__email {
+  font-family: PT Sans;
+  margin: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  /* identical to box height, or 111% */
+  
+  
+  color: #969696;
+  
+  mix-blend-mode: normal;
+}

@@ -1,0 +1,8 @@
+.people__container {
+  display: grid;
+  grid-template-columns: repeat(4, 190px);
+  grid-template-rows: repeat(2, 350px);
+  row-gap: 40px;
+  column-gap: 23px;
+  margin: 0 auto;
+}

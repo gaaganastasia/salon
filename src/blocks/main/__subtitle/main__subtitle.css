@@ -1,0 +1,15 @@
+.main__subtitle {
+  max-width: 730px;
+  margin: 80px auto 0;
+  font-family: PT Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+  /* or 24px */
+  
+  text-align: center;
+  text-transform: uppercase;
+  
+  color: #FFFFFF;
+}

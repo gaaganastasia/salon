@@ -1,0 +1,9 @@
+.main__logo {
+  margin: 0 auto;
+  height: 380px;
+  width: 380px;
+  border: #fff 3px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
