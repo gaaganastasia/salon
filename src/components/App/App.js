@@ -1,5 +1,5 @@
 import React from "react";
-import { Redirect, Route, Switch, useHistory } from "react-router-dom";
+import { Route, Switch } from "react-router-dom";
 import AboutUs from "../AboutUs/AboutUs";
 import Appointments from "../Appointments/Appointments";
 import Footer from "../Footer/Footer";

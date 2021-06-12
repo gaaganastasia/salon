@@ -4,6 +4,6 @@
   grid-template-columns: 270px 400px;
   grid-template-rows: 58px 28px 1fr;
   row-gap: 18px;
-  column-gap: 270px;
+  column-gap: calc(100% - 270px - 400px);
   background-color: #000;
 }
