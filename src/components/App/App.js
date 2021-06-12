@@ -19,21 +19,21 @@ function App() {
       <Header></Header>
       
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/salon">
           <Main></Main>
           <AboutUs></AboutUs>
           <People></People>
         </Route>
         
-        <Route path="/online-appointment">
+        <Route path="/salon/online-appointment">
           <Online></Online>
         </Route>
 
-        <Route path="/my-appointments">
+        <Route path="/salon/my-appointments">
           <Appointments></Appointments>
         </Route>
 
-        <Route path="/profile">
+        <Route path="/salon/profile">
           <Profile></Profile>
         </Route>
       </Switch>
