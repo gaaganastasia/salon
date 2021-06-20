@@ -1,5 +1,5 @@
 import React from "react";
-import "./Appointments.css";
+import "../../css/main.css";
 
 function Appointments() {
   return(

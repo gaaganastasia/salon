@@ -1,6 +1,6 @@
 import React from "react";
-import "./People.css";
-import human from "../../images/human.jpg";
+import "../../css/main.css";
+import human from "../../img/human.jpg";
 
 function People() {
   return(

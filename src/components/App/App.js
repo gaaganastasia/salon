@@ -9,7 +9,7 @@ import Online from "../Online/Online";
 import People from "../People/People";
 import Preheader from "../Preheader/Preheader";
 import Profile from "../Profile/Profile";
-import "./App.css";
+import "../../css/main.css";
 
 
 function App() {

@@ -1,6 +1,5 @@
 import React from "react";
-import "./Preheader.css";
-//import { Link } from "react-router-dom";
+import "../../css/main.css";
 
 function Preheader() {
   return(

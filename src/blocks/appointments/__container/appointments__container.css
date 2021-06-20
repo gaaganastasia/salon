@@ -1,7 +1,0 @@
-.appointments__container {
-  padding: 68px 0;
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: repeat(3, 1fr);
-  row-gap: 40px;
-}

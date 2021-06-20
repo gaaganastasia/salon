@@ -1,5 +1,5 @@
 import React from "react";
-import "./Online.css";
+import "../../css/main.css";
 
 function Online() {
   function handleSubmit(e) {

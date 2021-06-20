@@ -1,6 +1,6 @@
 import React from "react";
-import "./Profile.css";
-import photo from "../../images/human.jpg"
+import "../../css/main.css";
+import photo from "../../img/human.jpg";
 
 function Profile() {
   return(
